@@ -50,18 +50,18 @@ export default {
     min-height: 8rem;
     text-align: left;
 }
-.skill_container .card .sub_title{
+.skill_container .sub_title{
     font-size: 1.5rem;
     border-bottom: solid 1px #bbb;
     padding-bottom: 0.5rem;
     margin-bottom: 1rem;
 }
-.skill_container .card .skill_img{
+.skill_container .skill_img{
     height: 6rem;
     display: inline-block;
     margin: 0 2rem 1rem 0;
 }
-.skill_container .card .skill_img img{ 
+.skill_container .skill_img img{ 
     height: 100%;
 }
 </style>
