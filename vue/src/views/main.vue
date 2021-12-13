@@ -64,21 +64,6 @@ article .title_bar{
     display: inline-block;
 }
 
-.introduce{
-    background-color: #fff;
-}
-.projects{
-    background-color: #bdc7f1;
-}
-.skills, .contact{
-    background-color: #f5f5f5;
-}
-
-.container{
-    max-width: 1000px;
-    margin: 0 auto;
-    padding: 0 2rem;
-}
 .container .view_more_projects{
     margin-top: 2rem;
     width: 100%;
