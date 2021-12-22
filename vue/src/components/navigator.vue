@@ -45,6 +45,7 @@ nav{
     top: 0;
     right: 0;
     left: 0;
+    background-color: #000a30;
     color: #ffffffbb
 }
 .menu{
@@ -55,9 +56,6 @@ nav{
     margin: 0 auto;
 }
 .menu.isScrolled{
-    background-color: #fff;
-    color: #000;
-    box-shadow: 0 1px 0.3rem #ffffffbb
 }
 .menu .item{
     padding: 0 1rem;
