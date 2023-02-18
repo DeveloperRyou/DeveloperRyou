@@ -15,7 +15,7 @@ You can see my projects in my portfolio.
 <img src="https://img.shields.io/badge/-python-1572B6?&style=for-the-badge&logo=python&logoColor=black" />
 <img src="https://img.shields.io/badge/-java-F89820?&style=for-the-badge&logo=java&logoColor=black" />
 <img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/-typescript-007ACC?&style=for-the-badge&logo=typecript&logoColor=black" />
+<img src="https://img.shields.io/badge/-typescript-007ACC?&style=for-the-badge&logo=typescript&logoColor=black" />
 <img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img scr="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
