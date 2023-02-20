@@ -5,6 +5,8 @@ I'm a Software engineer specialized in building web service.
 I'm passionate about Software development, Machine Learning, etc. 
 You can see my projects in my portfolio.
 
+### [Visit my Portfolio](https://developerryou.github.io/portfolio/)
+
 <table>
 <tr>
 
@@ -34,5 +36,3 @@ You can see my projects in my portfolio.
 
 </tr>
 </table> 
-
-### [Visit my Portfolio](https://github.com)
