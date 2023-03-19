@@ -36,3 +36,6 @@ You can see my projects in my portfolio.
 
 </tr>
 </table> 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developerryou)](https://github.com/anuraghazra/github-readme-stats)
+
