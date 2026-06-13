@@ -1,7 +1,5 @@
 # Hi I am DeveloperRyou 👋
 
-### I am aiming to be a talented software engineer
-
 ---
 
 I'm passionate about Software development, Machine Learning, etc. 
