@@ -1,7 +1,5 @@
 # Hi I am DeveloperRyou 👋
 
----
-
 I'm passionate about Software development, Machine Learning, etc. 
 
 You can see my projects in my portfolio.
